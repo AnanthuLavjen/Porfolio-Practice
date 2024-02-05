@@ -1,7 +1,7 @@
 
 .name{
     display: flex;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: sans-serif;
 }
 .dp{
     width: 200px;
@@ -17,21 +17,35 @@ body {
 }
 .data{
     display:flex;
-    color:#2ebf94;
-    width: 1000px;
+    color:#52f2ca;
+    width: 750px;
+    border-radius: 50px;
+    border: 5px solid #52f2ca;
     justify-content: center;
     align-items: center;
     height: 500px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif4
+    font-family: sans-serif;
+    margin-top: 80px;
+    margin-bottom: auto;
 }
 .outer{
     display: flex;
-    justify-content: center
-    
+    justify-content: center;
+    align-items: center;
+}
+.l1{
+    display: block;
+    width: 200px;
+}
+.l2{
+    display: block;
+}
+.lists{
+    display: flex;
 }
 .left{
     margin: 10%;   
 }
-.description{
-
+.right{
+    width: 700px;
 }
