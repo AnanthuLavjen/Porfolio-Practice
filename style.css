@@ -8,6 +8,11 @@
     height: 200px;
     border-radius: 50%;
 }
+.gith{
+    height: 50px;
+    width: 50px;
+    
+}
 body {
     background-image: url('images/b4.jpg');
     background-repeat: no-repeat;
